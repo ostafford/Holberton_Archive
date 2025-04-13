@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/okkystafford/Repos/holbertonschool-low_level_programming/recursion/sandbox'
+relocations:     []
+...
